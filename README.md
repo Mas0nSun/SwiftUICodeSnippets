@@ -1,23 +1,23 @@
 # SwiftUICodeSnippets
-Here are all the code snippets created in my short videos. Hope you like them! If you find any issues, feel free to create issues or PRs.
+这里是短视频中创建的所有代码, 希望大家喜欢, 如果发现有任何问题欢迎大家提 issues 或者 PR
 
+# 通知
+目前该仓库为公开状态, 后续会变为私有状态, 已付费的用户会收到邀请, 点击接受后可正常访问, 没有收到邀请的话可以联系我, 目前是是早鸟价大家可以在小红书/B站购买
 
-[中文版本](/README.zh-CN.md)
+## 目录说明
+001-500 为已发布的代码
 
-## Directory Structure
-001-500 are published code snippets
+501-??? 为草稿代码, 属于制作视频时的副产物 = =
 
-501-??? are draft code snippets, which are byproducts of video production = =
-
-<!-- # Welcome to Join My Knowledge Planet
-- I'll share the inspiration behind the code in the videos (along with related knowledge points and resources)
-- I'll also publish detailed code explanation articles (will stay in sync with video updates later)
-- I'll share articles about SwiftUI and iOS independent development
-- If you're interested, welcome to join and discuss together
+<!-- # 欢迎大家加入我的知识星球
+- 这里我会分享视频中代码想法的由来 (以及相关知识点和资料)
+- 还会发布一些详细的代码讲解文章 (后期会和视频更新保持同步)
+- 同时也会发一些 SwiftUI 和 iOS 独立开发相关的文章
+- 如果你感兴趣的话, 欢迎加入一起讨论学习
 
 <img src="Sponsorship/51111854458284T4.JPG" width="70%"> -->
 
-# Preview Effects
+# 预览效果
 
 ### [026-HorizontalPicker](/SwiftUICodeSnippets/026-HorizontalPicker)
 <img src="Gifs/026.gif" width="70%"/>
