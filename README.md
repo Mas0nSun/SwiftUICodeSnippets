@@ -9,15 +9,10 @@
 
 501-??? 为草稿代码, 属于制作视频时的副产物 = =
 
-<!-- # 欢迎大家加入我的知识星球
-- 这里我会分享视频中代码想法的由来 (以及相关知识点和资料)
-- 还会发布一些详细的代码讲解文章 (后期会和视频更新保持同步)
-- 同时也会发一些 SwiftUI 和 iOS 独立开发相关的文章
-- 如果你感兴趣的话, 欢迎加入一起讨论学习
-
-<img src="Sponsorship/51111854458284T4.JPG" width="70%"> -->
-
 # 预览效果
+
+### [027-StartsBackground](/SwiftUICodeSnippets/027-StartsBackgroundView)
+<img src="Gifs/027.png" width="70%"/>
 
 ### [026-HorizontalPicker](/SwiftUICodeSnippets/026-HorizontalPicker)
 <img src="Gifs/026.gif" width="70%"/>

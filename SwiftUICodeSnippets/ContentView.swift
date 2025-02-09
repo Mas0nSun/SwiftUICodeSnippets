@@ -62,6 +62,7 @@ enum AllComponents: String, CaseIterable {
     case purchaseCard = "PurchaseCad"
     case backgroundColor = "BackgroundColor"
     case horizontalPicker = "HorizontalPicker"
+    case starsBackgroundView = "StarsBackgroundView"
     
     @ViewBuilder
     func makeView() -> some View {
@@ -118,6 +119,8 @@ enum AllComponents: String, CaseIterable {
             BackgroundColorAnimationView()
         case .horizontalPicker:
             HorizontalPickerView()
+        case .starsBackgroundView:
+            GoProSectionView()
         }
     }
 }
