@@ -12,7 +12,7 @@
 # 预览效果
 
 ### [027-StartsBackground](/SwiftUICodeSnippets/027-StartsBackgroundView)
-<img src="Gifs/027.png" width="70%"/>
+<img src="Gifs/027.png" width="30%"/>
 
 ### [026-HorizontalPicker](/SwiftUICodeSnippets/026-HorizontalPicker)
 <img src="Gifs/026.gif" width="70%"/>
